@@ -28,6 +28,8 @@
 ![Prisma](https://img.shields.io/badge/Prisma-14354C?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
+## ⚙️ &nbsp;GitHub Analytics
+
 <div>
   <a href="https://github.com/weslleyolli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslleyolli&layout=compact&langs_count=7&theme=dark"/>
