@@ -1,13 +1,15 @@
-###<h1 align="center">Hi there 👋 I'm Weslley<h1/>
+<h1 align="center">Hi there 👋 I'm Weslley<h1/>
 
 ##
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/weslley_olli?igshid=YmMyMTA2M2Y=)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslley-oliveira-5a3443238)
 [![Email](https://img.shields.io/badge/weslleyrichardson.cg@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weslleyrichardson.cg@hotmail.com)
 
--🎩 I’m currently learning **ReactJS, TypeScript, AngularJS, JavaScript.**
+- 🌱 I’m currently learning **ReactJS, TypeScript, AngularJS, JavaScript.**
 
 - 🔭 I'm currently studing at [Unifacisa](https://www.unifacisa.edu.br/home)
+  
+ - ⚡ Fun fact: I love programming for several hours at a time, for me it's fun not a chore.
 
 ## 🛠 &nbsp;Tech Stack
 
