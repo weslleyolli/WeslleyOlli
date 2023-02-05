@@ -1,9 +1,9 @@
-<h1 align="center">### Hi there 👋 I'm Weslley<h1/>
+###<h1 align="center">Hi there 👋 I'm Weslley<h1/>
 
 ##
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/weslley_olli?igshid=YmMyMTA2M2Y=)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslley-oliveira-5a3443238)
-[![Email](https://img.shields.io/badge/azevedo.darllinson@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weslleyrichardson.cg@hotmail.com)
+[![Email](https://img.shields.io/badge/weslleyrichardson.cg@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weslleyrichardson.cg@hotmail.com)
 
 -🎩 I’m currently learning **ReactJS, TypeScript, AngularJS, JavaScript.**
 
@@ -38,7 +38,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslleyolli&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<h1 align="center">### Thank you for visit👋 <h1/>
+<h1 align="center">Thank you for visit👋 <h1/>
 
 <!--
 **weslleyolli/WeslleyOlli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
