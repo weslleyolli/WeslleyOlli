@@ -36,7 +36,7 @@
 
 <div>
   <a href="https://github.com/weslleyolli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslleyolli&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=Weslleyolli&show_icons=true&theme=dark/>
 </div>
 
 <h1 align="center">Thank you for visit👋 <h1/>
