@@ -6,7 +6,7 @@
   
  ## 💬 &nbsp; About me
 
-- 🌱 I’m currently learning **ReactJS, TypeScript, AngularJS, JavaScript.**
+- 🌱 I’m currently learning **ReactJS, TypeScript, JavaScript.**
 
 - 🔭 I'm currently studing at [Unifacisa](https://www.unifacisa.edu.br/home)
   
