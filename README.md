@@ -28,6 +28,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-14354C?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Sass CSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-14354C?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 
