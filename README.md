@@ -1,57 +1,41 @@
-<h1 align="center">Hi there 👋 I'm Weslley<h1/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="400px" max-width="400px " width="400px" align="right">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/weslley_olli?igshid=YmMyMTA2M2Y=)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslley-oliveira-5a3443238)
-[![Email](https://img.shields.io/badge/weslleyrichardson.cg@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weslleyrichardson.cg@hotmail.com)
-  
- ## 💬 &nbsp; About me
+## Hello, my name is <strong>Weslley Oliveira!</strong> 👋
+<h3> I thrive on coding and embracing the latest in tech!</h3>
 
-- 🌱 I’m currently learning **ReactJS, TypeScript.**
+- 💻 Continuously learning and implementing innovative tech solutions.
+- 🎓 Graduating in **Information Systems** from <a href="https://unifacisa.edu.br/">Unifacisa</a>.
 
-- 🔭 I'm currently studing at [Unifacisa](https://www.unifacisa.edu.br/home)
-  
- - ⚡ Fun fact: I love programming for several hours at a time, for me it's fun not a chore.
+## 🚀 My Skills
 
-## 🛠 &nbsp;Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,ts,nextjs,nodejs,prisma," />
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)&nbsp;
-![Vite](https://img.shields.io/badge/Vite-EA2046?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-14354C?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-![Sass CSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-14354C?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
+## 🛠️Development tools
 
-## ⚙️ &nbsp;GitHub Analytics
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,ps,figma,git,vite," />
+  </a>
+</p>
 
-<div>
-  <a href="https://github.com/weslleyolli">
-  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=Weslleyolli&show_icons=true&theme=dark/>
-</div>
+### 📊 Statistics
 
-<h1 align="center">Thank you for visit👋 <h1/>
+<a href="https://github.com/weslleyolli" title="language mapping illustration">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyollis&theme=dracula&hide_langs_below=1" alt="illustration of reading programming languages ​​in profile"/>
+</a>
 
-<!--
-**weslleyolli/WeslleyOlli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### 📱 My networks:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/weslley-oliveira-5a3443238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" alt="LinkedIn"/></a>
+
+  <a href="https://www.instagram.com/weslley_olli?igsh=MXNsOGpzZ2FlN2p3cA%3D%3D&utm_source=qr" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/></a>
+</p>
