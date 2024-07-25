@@ -25,7 +25,7 @@
 ### 📊 Statistics
 
 <a href="https://github.com/weslleyolli" title="language mapping illustration">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyollis&theme=dracula&hide_langs_below=1" alt="illustration of reading programming languages ​​in profile"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyolli&theme=dracula&hide_langs_below=1" alt="illustration of reading programming languages ​​in profile"/>
 </a>
 
 <br>
