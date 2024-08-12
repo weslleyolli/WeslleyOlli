@@ -24,8 +24,8 @@
 
 ### 📊 Statistics
 
-<div align="center">
-    <img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyolli&theme=dracula&hide_langs_below=1" alt="illustration of reading programming languages ​​in profile"/>
+<div align="center" display="flex" justify-content="center">
+    <img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyolli&theme=dracula&hide_langs_below=1&title_color=9523fb" alt="illustration of reading programming languages ​​in profile"/>
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WeslleyOlli&show_icons=true&count_private=true&hide_border=true&title_color=9523fb&icon_color=9523fb&text_color=c9d1d9&bg_color=0d1117" /> 
 </div>
 
